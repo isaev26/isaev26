@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaev26
 - 👀 I’m interested in Python, Php
-- 🌱 I’m currently learning OOP
+<!--- - 🌱 I’m currently learning OOP --->
 - 📫 How to reach me [Telegram](https://t.me/cisai)
 
 <!---
